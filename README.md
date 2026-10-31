@@ -1,5 +1,5 @@
 <h1> 👻Catch The Ghost! </h1>
-A browser-based project built using p5.js during the Hackclub Ghostship workshop.
+A browser-based game built using p5.js during the Hack Club Ghostship workshop.
 
 
 👾 Play it here: https://hamna-qadir.github.io/Ghostship_Hackclub/
