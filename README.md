@@ -1,8 +1,8 @@
-<h1> 👻Catch The Ghost! </h1>
+<h1> Catch The Ghost! </h1>
 A browser-based game built using p5.js during the Hack Club Ghostship workshop.
 
 
-👾 Play it here: https://hamna-qadir.github.io/Ghostship_Hackclub/
+Play it here: https://hamna-qadir.github.io/Ghostship_Hackclub/
 
 
 <h2> How to play </h2>
@@ -14,5 +14,5 @@ You have 30 seconds to catch the ghost as many times as you can and rack up your
 
   - p5.js  
 
-  - HTML, CSS, and JavaScript
+  - JavaScript
     
