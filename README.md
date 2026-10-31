@@ -10,6 +10,9 @@ Use your trackpad/ mouse to follow the ghost and click on it to catch it.
 You have 30 seconds to catch the ghost as many times as you can and rack up your score!
 
 <h2> Built with </h2>
-  - p5.js
+
+
+  - p5.js  
+
   - HTML, CSS, and JavaScript
     
